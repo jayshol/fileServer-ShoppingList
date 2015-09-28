@@ -1,0 +1,29 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayshol/fileServer-ShoppingList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayshol/fileServer-ShoppingList/issues"
+  },
+  "homepage": "https://github.com/jayshol/fileServer-ShoppingList",
+  "devDependencies": {
+    "chai": "^2.1.0"
+  },
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
